@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anoj Rawal</h1>
-<h3 align="center">A passionate Mobile App developer from Nepal</h3>
+<h3 align="center">A passionate Java developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoj-07&label=Profile%20views&color=0e75b6&style=flat" alt="anoj-07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoj-07" alt="anoj-07" /></a> </p>
 
-- 💬 Ask me about **Java, Android Studio**
+- 💬 Ask me about **Java, Spring, Spring Boot**
 
 - 📫 How to reach me **anojrawal039.adtu@gmail.com**
 
